@@ -5,6 +5,6 @@ print('hello')
 
 print('bay')
 
-print('str master code ')
 
-print('str master code ')
+str ='mohit '
+str = 'like and'
